@@ -66,7 +66,6 @@ def self.new_by_name(song_name)
     self.all.clear
   end
 
-end
   
 
 end
